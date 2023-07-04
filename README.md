@@ -5,14 +5,9 @@
 Here are some facts about me!
 
 - 🔭 I’m currently working on ReactJS projects.
-- 🌱 I’m currently learning DSA.
+- 🌱 I’m currently learning DSA and backend development.
 - 💬 Ask me about Python and R.
 - ⚡ Fun fact: I have a startup.
-
-
-![Aimen's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimen-moten&count_private=true&theme=synthwave)
-
-
 
 
  
