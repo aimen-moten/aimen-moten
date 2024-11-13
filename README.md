@@ -62,7 +62,7 @@ I’m always open to discussing new projects, collaborating on innovative ideas,
 ## 💬 Fun Facts
 
 - 🍗 I’m a fried-chicken enthusiast and love exploring new food spots.
-- 🏋️‍♀️ I’m an aspiring travel content creator, with the ambitious goal of wanting to visit 23 countries before my 23rd birthday in 2025.
+-  ✈️ I’m an aspiring travel content creator, with the ambitious goal of wanting to visit 23 countries before my 23rd birthday in 2025.
 - 💖 Passionate about helping women in tech, both on campus and globally.
 
 Feel free to browse my projects or drop me a message. Let’s make something awesome together!
