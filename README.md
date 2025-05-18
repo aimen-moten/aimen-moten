@@ -6,7 +6,7 @@ I'm a software engineer, tech enthusiast, and community advocate. I’m driven b
 
 ## 🌟 What I'm Up To
 
-- 🧑‍💻 **Currently**: Interning at [Semgrep](https://semgrep.dev/), working on projects involving application security and enhancing developer experience with React.js, Python, and LLM APIs.
+- 🧑‍💻 **Currently**: Interning at [Google](https://www.google.com/), working on Google Health within Google Core.
 - 📚 **Learning**: Deepening my skills in Machine Learning at Cornell University through Breakthrough Tech AI, exploring topics like Linear Regression and ranking prediction models.
 - 💡 **Exploring**: The intersection of tech and healthcare, with a vision to build inclusive solutions for accessibility and user empowerment.
 
